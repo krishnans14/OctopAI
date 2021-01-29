@@ -9,5 +9,5 @@ https://neat-python.readthedocs.io/en/latest/index.html
 
 The main motivation and the initial version of the code comes from the tutorial from the Tech with Tim YouTube channel that can be found in this playlist: https://www.youtube.com/playlist?list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2
 
-<img src="octopAI_1.png" alt="OctopAI screenshot" width="100"/>
-<img src="octopAI_2.png" alt="OctopAI screenshot" width="100"/>
+<img src="octopAI_1.png" alt="OctopAI screenshot" width="300"/>
+<img src="octopAI_2.png" alt="OctopAI screenshot" width="300"/>
