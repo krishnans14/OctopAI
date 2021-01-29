@@ -1,8 +1,10 @@
 # OctopAI
-This is a simple obstacle avoidance game which I will use to test different algorithms
 
-The octopAI is a base to help an AI octopus to traverse the perils of the underwater world.
-<img src="oct2_full.png" alt="Octopus" width="200"/>
+<img src="oct2_full.png" alt="Octopus" width="400"/>
+
+
+This is a simple obstacle avoidance game which I will use to test different algorithms The octopAI is a base to develop different algorithms that help an AI octopus to traverse the perils of the underwater world.
+
 
 In this first version, the NEAT genetic algorithm is used to train the neural net model
 https://neat-python.readthedocs.io/en/latest/index.html
